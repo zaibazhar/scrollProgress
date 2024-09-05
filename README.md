@@ -4,7 +4,9 @@ scrollProgress is a small and useful JavaScript plugin. This plugin creates a si
 1. Include the ```scrollProgress.js``` file in your project:
 
  ```<script src="scrollProgress.js"></script> ```
+ 
  2. The plugin will automatically add a progress bar at the top of the page that grows as the user scrolls down.
+ 
 # Features: 
 - Simple, lightweight, and easy to integrate.
 - Responsive and works across all modern browsers.
