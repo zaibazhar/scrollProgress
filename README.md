@@ -12,4 +12,4 @@ scrollProgress is a small and useful JavaScript plugin. This plugin creates a si
 - Responsive and works across all modern browsers.
 - You can easily customize the progress bar's color, height, and animation speed.
 
-
+test message
